@@ -1,5 +1,5 @@
 #include<studio.h>
 void main()
 {
-  print("DEEP...!!!");
+  print("HELLO WORLD...!!!");
 }
